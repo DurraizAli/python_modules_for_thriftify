@@ -1,0 +1,4 @@
+This is a chatbot that is used in thriftify app.
+to use it run this server
+go to chatcontroller.dart in thriftify app
+change the laptop address variable or simply cahnge the ip address where the request is sent.

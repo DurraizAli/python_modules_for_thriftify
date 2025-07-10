@@ -1,0 +1,5 @@
+This is remove background Server:
+To use this server we have to simply run it first
+after that we have to go to post ad controller
+put our ip address in to it 
+ip address must be from ipconfig and most recent ip address is needed to run.
